@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2017/06/29/id_619469/619469_620.jpg" group-title="UPIN IPIN",MNC HD
+https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2017/06/29/id_619469/619469_620.jpg" group-title="UPIN IPIN",MNC SD
+https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="HAIDAR TV",BOOMERANG HD
+http://tvku.live:8888/aris7812/3des18ars/305
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="HAIDAR TV",CARTOON NETWORK HD
+http://tvku.live:8888/aris7812/3des18ars/680
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="HAIDAR TV",NET. TV HD
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NetTV.id.png" group-title="HAIDAR TV",NET. TV FHD
+http://tvku.live:8888/aris7812/3des18ars/78
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="HAIDAR TV",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/TransTV.id.png" group-title="HAIDAR TV",TRANS TV FHD
+http://tvku.live:8888/aris7812/3des18ars/929
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Trans7.id.png" group-title="HAIDAR TV",TRANS 7 FHD
+http://tvku.live:8888/aris7812/3des18ars/930
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="HAIDAR TV",METRO TV HD
+http://tvku.live:8888/aris7812/3des18ars/1697
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2e/Logo-Kompas_TV.png" group-title="HAIDAR TV",KOMPAS TV
+http://tvku.live:8888/aris7812/3des18ars/30
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="HAIDAR TV",FOX MOVIES HD
+http://tvku.live:8888/aris7812/3des18ars/98
+
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="HAIDAR TV",FOX MOVIES HD 2
+http://tvku.live:8888/aris7812/3des18ars/978
+
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="HAIDAR TV",FOX MOVIES FHD
+http://tvku.live:8888/aris7812/3des18ars/1205
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES HD
+http://tvku.live:8888/aris7812/3des18ars/99
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES HD 2
+http://tvku.live:8888/aris7812/3des18ars/979
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES FHD
+http://tvku.live:8888/aris7812/3des18ars/1478
+
+#EXTINF:-1 tvg-logo="https://img.pngio.com/hbo-logo-hbo-logo-png-free-transparent-png-download-pngkey-hbo-png-820_360.png" group-title="HAIDAR TV",HBO HD
+http://tvku.live:8888/aris7812/3des18ars/210
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="HAIDAR TV",HBO FHD
+http://tvku.live:8888/aris7812/3des18ars/1496
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HAIDAR TV",HBO HITS HD
+http://tvku.live:8888/aris7812/3des18ars/591
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HAIDAR TV",HBO HITS FHD
+http://tvku.live:8888/aris7812/3des18ars/11492
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HAIDAR TV",HBO FAMILY HD
+http://tvku.live:8888/aris7812/3des18ars/592
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="HAIDAR TV",HBO SIGNATURE HD
+http://tvku.live:8888/aris7812/3des18ars/873
+
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/04/30/HBO_Signature_Asia.png" group-title="HAIDAR TV",HBO SIGNATURE FHD
+http://tvku.live:8888/aris7812/3des18ars/1498
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="HAIDAR TV",CINEMAX HD
+http://tvku.live:8888/aris7812/3des18ars/2156
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="HAIDAR TV",LOVE NATURE 4K
+http://tvku.live:8888/aris7812/3des18ars/14105
+
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="HAIDAR TV",NATGEO CHANNEL HD
+http://tvku.live:8888/aris7812/3des18ars/96
+
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="HAIDAR TV",NAT GEO WILD HD
+http://tvku.live:8888/aris7812/3des18ars/97
+
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="HAIDAR TV",NATGEO CHANNEL HD 2
+http://tvku.live:8888/aris7812/3des18ars/1445
+
+#EXTINF:-1 tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="HAIDAR TV",NAT GEO WILD HD 2
+http://tvku.live:8888/aris7812/3des18ars/1446
