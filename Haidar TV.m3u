@@ -12,6 +12,9 @@ http://tvku.live:8888/aris7812/3des18ars/305
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cartoon Network HD
 http://tvku.live:8888/aris7812/3des18ars/680
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Nickelodeon HD
+http://tvku.live:8888/aris7812/3des18ars/962
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NET. TV HD
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
@@ -102,14 +105,17 @@ http://tvku.live:8888/aris7812/3des18ars/2156
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Love Nature 4K
 http://tvku.live:8888/aris7812/3des18ars/14105
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Animal Planet FHD
+http://tvku.live:8888/aris7812/3des18ars/3616
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel FHD
 http://tvku.live:8888/aris7812/3des18ars/13690
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild FHD
-http://tvku.live:8888/aris7812/3des18ars/13717
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel HD
 http://tvku.live:8888/aris7812/3des18ars/96
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild FHD
+http://tvku.live:8888/aris7812/3des18ars/13717
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild HD
 http://tvku.live:8888/aris7812/3des18ars/97
