@@ -1,91 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="UPIN IPIN",MNC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="UPIN IPIN",MNC TV HD
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="UPIN IPIN",MNC SD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="UPIN IPIN",MNC TV SD
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",BOOMERANG HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Boomerang HD
 http://tvku.live:8888/aris7812/3des18ars/305
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cartoon Network HD
 http://tvku.live:8888/aris7812/3des18ars/680
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NET. TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NET. TV HD
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NET. TV FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NET. TV FHD
 http://tvku.live:8888/aris7812/3des18ars/78
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",CNN INDONESIA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",TRANS TV FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Trans TV FHD
 http://tvku.live:8888/aris7812/3des18ars/929
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",TRANS 7 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Trans 7 FHD
 http://tvku.live:8888/aris7812/3des18ars/930
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",METRO TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Metro TV HD
 http://tvku.live:8888/aris7812/3des18ars/1697
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Kompas TV
 http://tvku.live:8888/aris7812/3des18ars/30
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX MOVIES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies HD
 http://tvku.live:8888/aris7812/3des18ars/98
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX MOVIES HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies HD 2
 http://tvku.live:8888/aris7812/3des18ars/978
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX MOVIES FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies FHD
 http://tvku.live:8888/aris7812/3des18ars/1205
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies HD
 http://tvku.live:8888/aris7812/3des18ars/99
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies HD 2
 http://tvku.live:8888/aris7812/3des18ars/979
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",FOX ACTION MOVIES FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies FHD
 http://tvku.live:8888/aris7812/3des18ars/1478
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO HD
 http://tvku.live:8888/aris7812/3des18ars/210
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO FHD
 http://tvku.live:8888/aris7812/3des18ars/1496
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO HITS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Hits HD
 http://tvku.live:8888/aris7812/3des18ars/591
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO HITS FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Hits FHD
 http://tvku.live:8888/aris7812/3des18ars/11492
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Family HD
 http://tvku.live:8888/aris7812/3des18ars/592
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Signature HD
 http://tvku.live:8888/aris7812/3des18ars/873
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Signature FHD
 http://tvku.live:8888/aris7812/3des18ars/1498
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cinemax HD
 http://tvku.live:8888/aris7812/3des18ars/2156
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",LOVE NATURE 4K
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Love Nature 4K
 http://tvku.live:8888/aris7812/3des18ars/14105
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NATGEO CHANNEL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel HD
 http://tvku.live:8888/aris7812/3des18ars/96
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NAT GEO WILD HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild HD
 http://tvku.live:8888/aris7812/3des18ars/97
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NATGEO CHANNEL HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel HD 2
 http://tvku.live:8888/aris7812/3des18ars/1445
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="HAIDAR TV",NAT GEO WILD HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild HD 2
 http://tvku.live:8888/aris7812/3des18ars/1446
