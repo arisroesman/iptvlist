@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="UPIN IPIN",MNC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="UPIN IPIN",MNC HD
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cbi59e97vmxdhnv/IMG_20200510_224042.jpg" group-title="UPIN IPIN",MNC SD
