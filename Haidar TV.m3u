@@ -7,115 +7,115 @@ https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Boomerang HD
-http://tvku.live:8888/aris7812/3des18ars/305
+http://tvku.live:8888/aris7812/25mei2020ars/305
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cartoon Network HD
-http://tvku.live:8888/aris7812/3des18ars/680
+http://tvku.live:8888/aris7812/25mei2020ars/680
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Nickelodeon HD
-http://tvku.live:8888/aris7812/3des18ars/962
+http://tvku.live:8888/aris7812/25mei2020ars/962
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NET. TV HD
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NET. TV FHD
-http://tvku.live:8888/aris7812/3des18ars/78
+http://tvku.live:8888/aris7812/25mei2020ars/78
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",CNN Indonesia FHD
-http://tvku.live:8888/live/aris7812/3des18ars/44.m3u8
+http://tvku.live:8888/live/aris7812/25mei2020ars/44.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Trans TV FHD
-http://tvku.live:8888/aris7812/3des18ars/929
+http://tvku.live:8888/aris7812/25mei2020ars/929
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Trans 7 FHD
-http://tvku.live:8888/aris7812/3des18ars/930
+http://tvku.live:8888/aris7812/25mei2020ars/930
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Metro TV HD
-http://tvku.live:8888/aris7812/3des18ars/1697
+http://tvku.live:8888/aris7812/25mei2020ars/1697
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",TV One HD
 https://stream-05.sg1.dailymotion.com:443/sec(045Msia06uu92p_oLsoybHGN8CjooQIwqoCd39Z5zYE)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Kompas TV HD
-http://tvku.live:8888/aris7812/3des18ars/3590
+http://tvku.live:8888/aris7812/25mei2020ars/3590
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",TVRI HD
-http://tvku.live:8888/aris7812/3des18ars/3594
+http://tvku.live:8888/aris7812/25mei2020ars/3594
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies HD
-http://tvku.live:8888/aris7812/3des18ars/98
+http://tvku.live:8888/aris7812/25mei2020ars/98
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies FHD
-http://tvku.live:8888/aris7812/3des18ars/3640
+http://tvku.live:8888/aris7812/25mei2020ars/3640
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Movies FHD 2
-http://tvku.live:8888/aris7812/3des18ars/1205
+http://tvku.live:8888/aris7812/25mei2020ars/1205
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies HD
-http://tvku.live:8888/aris7812/3des18ars/99
+http://tvku.live:8888/aris7812/25mei2020ars/99
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies FHD
-http://tvku.live:8888/aris7812/3des18ars/3642
+http://tvku.live:8888/aris7812/25mei2020ars/3642
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Action Movies FHD 2
-http://tvku.live:8888/aris7812/3des18ars/1478
+http://tvku.live:8888/aris7812/25mei2020ars/1478
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",FOX Family FHD
-http://tvku.live:8888/aris7812/3des18ars/3644
+http://tvku.live:8888/aris7812/25mei2020ars/3644
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO HD
-http://tvku.live:8888/aris7812/3des18ars/4828
+http://tvku.live:8888/aris7812/25mei2020ars/4828
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO HD 2
-http://tvku.live:8888/aris7812/3des18ars/210
+http://tvku.live:8888/aris7812/25mei2020ars/210
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO FHD
-http://tvku.live:8888/aris7812/3des18ars/1496
+http://tvku.live:8888/aris7812/25mei2020ars/1496
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Hits HD
-http://tvku.live:8888/aris7812/3des18ars/4829
+http://tvku.live:8888/aris7812/25mei2020ars/4829
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Hits HD 2
-http://tvku.live:8888/aris7812/3des18ars/591
+http://tvku.live:8888/aris7812/25mei2020ars/591
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Hits FHD
-http://tvku.live:8888/aris7812/3des18ars/11492
+http://tvku.live:8888/aris7812/25mei2020ars/11492
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Family HD
-http://tvku.live:8888/aris7812/3des18ars/4830
+http://tvku.live:8888/aris7812/25mei2020ars/4830
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Family HD 2
-http://tvku.live:8888/aris7812/3des18ars/592
+http://tvku.live:8888/aris7812/25mei2020ars/592
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Signature HD
-http://tvku.live:8888/aris7812/3des18ars/873
+http://tvku.live:8888/aris7812/25mei2020ars/873
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",HBO Signature FHD
-http://tvku.live:8888/aris7812/3des18ars/1498
+http://tvku.live:8888/aris7812/25mei2020ars/1498
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cinemax HD
-http://tvku.live:8888/aris7812/3des18ars/4833
+http://tvku.live:8888/aris7812/25mei2020ars/4833
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Cinemax HD 2
-http://tvku.live:8888/aris7812/3des18ars/2156
+http://tvku.live:8888/aris7812/25mei2020ars/2156
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Love Nature 4K
-http://tvku.live:8888/aris7812/3des18ars/14105
+http://tvku.live:8888/aris7812/25mei2020ars/14105
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",Animal Planet FHD
-http://tvku.live:8888/aris7812/3des18ars/3616
+http://tvku.live:8888/aris7812/25mei2020ars/3616
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel FHD
-http://tvku.live:8888/aris7812/3des18ars/13690
+http://tvku.live:8888/aris7812/25mei2020ars/13690
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Channel HD
-http://tvku.live:8888/aris7812/3des18ars/96
+http://tvku.live:8888/aris7812/25mei2020ars/96
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild FHD
-http://tvku.live:8888/aris7812/3des18ars/13717
+http://tvku.live:8888/aris7812/25mei2020ars/13717
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="HAIDAR TV",NAT GEO Wild HD
-http://tvku.live:8888/aris7812/3des18ars/97
+http://tvku.live:8888/aris7812/25mei2020ars/97
