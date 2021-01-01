@@ -4,4 +4,4 @@
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXIWFYq4lVzEOGoc1BdM2SydIErDms0q_7BgRpT7FZn7eHjRq&usqp=CAU" group-title="UPIN IPIN",MNC TV SD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
